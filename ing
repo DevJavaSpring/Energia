@@ -128,6 +128,8 @@ https://www.frba.utn.edu.ar/wp-content/uploads/2021/02/redesneuronales.pdf
 
 
 
+https://power.larc.nasa.gov/api/temporal/hourly/point?parameters=ALLSKY_SFC_SW_DWN,T2M,RH2M,WS2M,PRECTOT&community=RE&longitude=-80.0&latitude=25.0&start=20231201&end=20231202&format=JSON
+https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=RE&longitude=-66.0&latitude=-24.0&start=20220101&end=20221231&format=JSON
 
 
 
